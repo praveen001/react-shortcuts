@@ -1,3 +1,5 @@
+Forked from https://github.com/avocode/react-shortcuts For custom usecase.
+
 React Shortcuts
 =========
 

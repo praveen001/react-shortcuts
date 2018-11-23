@@ -1,13 +1,14 @@
 {
-  "name": "react-shortcuts",
-  "description": "React shortcuts",
+  "name": "amagi-react-shortcuts",
+  "private": false,
+  "description": "Amagi React shortcuts",
   "version": "2.0.0",
   "license": "MIT",
   "main": "./lib/",
   "maintainers": [
     {
-      "name": "Petr Brzek",
-      "email": "petr@avocode.com"
+      "name": "Praveen",
+      "email": "praveen@amagi.com"
     }
   ],
   "keywords": [
@@ -36,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/avocode/react-shortcuts.git",
-    "web": "http://github.com/avocode/react-shortcuts"
+    "url": "git://github.com/praveen001/react-shortcuts.git",
+    "web": "http://github.com/praveen001/react-shortcuts"
   },
   "bugs": {
-    "url": "http://github.com/avocode/react-shortcuts/issues"
+    "url": "http://github.com/praveen001/react-shortcuts/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.14.0",
