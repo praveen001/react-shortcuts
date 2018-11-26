@@ -106,7 +106,7 @@ export default class extends React.Component {
     // NOTE: stopCallback is a method that is called to see
     // if the keyboard event should fire
     this._combokeys.stopCallback = (event, domElement, combo) => {
-      if (domElement.classList.contains(_this.props.exceptionClass)) {
+      if (domElement.classList.contains(this.props.exceptionClass)) {
         return false;
       }
       const isInputLikeElement = domElement.tagName === 'INPUT' ||
