@@ -2,7 +2,7 @@
   "name": "amagi-react-shortcuts",
   "private": false,
   "description": "Amagi React shortcuts",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "license": "MIT",
   "main": "./lib/",
   "maintainers": [
